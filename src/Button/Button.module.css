@@ -1,0 +1,10 @@
+/*This is the use of Modules That can be used anywhere in html*/
+
+.button{
+    background-color: hsl(274, 100%, 50%);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
