@@ -1,4 +1,13 @@
+
+To SetUp Vite :
+    >> "npm create vite@<version> | vite@latest"
+    >> npm install
+    >> To Run:
+            "npm run dev"
+
+
 1. Card Components
 2. Adding CSS styles (Inline,External,Modules)
 3. Props and PropsTypes and defaultProps
 4. Conditional Rendering
+5. 
